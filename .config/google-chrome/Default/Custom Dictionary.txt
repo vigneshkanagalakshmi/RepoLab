@@ -1,0 +1,6 @@
+amd64
+cijkpractice
+cleanPackage
+localMaven
+openjdk
+checksum_v1 = a1fa758cd45fbcc04392d2dfbb66d565
