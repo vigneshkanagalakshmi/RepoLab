@@ -108,3 +108,67 @@ sudo rm -r javamaven/
 cd maven-project
 ls -la
 cd /.
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+cd /home/user
+cd /home
+ls -la
+cd vigneshdanarajg/
+ls -la
+cd LabJK/
+ls -la
+cd \
+cd /var/lib/jenkins
+ls -la
+cd workspace/
+ls -la
+cd maven-project
+ls -la
+cd
+clear
+git init
+cd /.git
+ls -la
+cd .git
+ls -la
+cd
+clear
+git clone https://github.com/SimplilearnDevOpsOfficial/javamavenapp
+cd /var/lib/jenkins
+ls -la
+cd workspace/
+ls -la
+cd maven-project
+ls -la
+cd .git
+ls -la
+sudo vim index
+sudo vim config
+cd \
+clear
+cd /var/lib/jenkins/workspace/maven-project
+ls -la
+cd
+clear
+git clone https://github.com/SimplilearnDevOpsOfficial/javamavenapp
+git log
+vim README.md
+clear
+vim README.md
+clear
+vim README.md
+git add .
+clear
+sudo git add .
+git commit -m "another commit"
+~
+git commit -m "another commit"
+clear
+git push https://github.com/SimplilearnDevOpsOfficial/javamavenapp
+sudo git push https://github.com/SimplilearnDevOpsOfficial/javamavenapp
+git push --set-upstream https://github.com/SimplilearnDevOpsOfficial/javamavenapp master
+git push https://github.com/vigneshkanagalakshmi/RepoLab
+clear
+git push https://github.com/vigneshkanagalakshmi/RepoLab
+clear
+git push https://github.com/vigneshkanagalakshmi/RepoLab
+git push --set-upstream https://github.com/vigneshkanagalakshmi/RepoLab master

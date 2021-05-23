@@ -765,3 +765,137 @@ Release Date: 2017-03-02
 [ 12614.675] rdpDeferredUpdateCallback: reschedule rect_id 1791 rect_id_ack 1790
 [ 12614.766] rdpDeferredUpdateCallback: reschedule rect_id 1792 rect_id_ack 1791
 [ 12614.915] rdpDeferredUpdateCallback: reschedule rect_id 1794 rect_id_ack 1793
+[ 13109.694] rdpDeferredUpdateCallback: reschedule rect_id 1953 rect_id_ack 1952
+[ 13109.786] rdpDeferredUpdateCallback: reschedule rect_id 1954 rect_id_ack 1953
+[ 13109.879] rdpDeferredUpdateCallback: reschedule rect_id 1955 rect_id_ack 1954
+[ 13109.991] rdpDeferredUpdateCallback: reschedule rect_id 1956 rect_id_ack 1955
+[ 13125.977] rdpDeferredUpdateCallback: reschedule rect_id 2038 rect_id_ack 2037
+[ 13291.072] rdpDeferredUpdateCallback: reschedule rect_id 2316 rect_id_ack 2315
+[ 13430.214] rdpDeferredUpdateCallback: reschedule rect_id 2331 rect_id_ack 2330
+[ 13431.445] rdpDeferredUpdateCallback: reschedule rect_id 2341 rect_id_ack 2340
+[ 13431.582] rdpDeferredUpdateCallback: reschedule rect_id 2343 rect_id_ack 2342
+[ 13431.718] rdpDeferredUpdateCallback: reschedule rect_id 2345 rect_id_ack 2344
+[ 13432.082] rdpDeferredUpdateCallback: reschedule rect_id 2349 rect_id_ack 2348
+[ 13432.169] rdpDeferredUpdateCallback: reschedule rect_id 2350 rect_id_ack 2349
+[ 13432.616] rdpDeferredUpdateCallback: reschedule rect_id 2354 rect_id_ack 2353
+[ 13433.044] rdpDeferredUpdateCallback: reschedule rect_id 2359 rect_id_ack 2358
+[ 13433.131] rdpDeferredUpdateCallback: reschedule rect_id 2360 rect_id_ack 2359
+[ 13434.451] rdpDeferredUpdateCallback: reschedule rect_id 2367 rect_id_ack 2366
+[ 13435.552] rdpDeferredUpdateCallback: reschedule rect_id 2374 rect_id_ack 2373
+[ 13435.649] rdpDeferredUpdateCallback: reschedule rect_id 2375 rect_id_ack 2374
+[ 13438.685] rdpDeferredUpdateCallback: reschedule rect_id 2388 rect_id_ack 2387
+[ 13439.118] rdpDeferredUpdateCallback: reschedule rect_id 2393 rect_id_ack 2392
+[ 13439.211] rdpDeferredUpdateCallback: reschedule rect_id 2394 rect_id_ack 2393
+[ 13439.301] rdpDeferredUpdateCallback: reschedule rect_id 2395 rect_id_ack 2394
+[ 13439.392] rdpDeferredUpdateCallback: reschedule rect_id 2396 rect_id_ack 2395
+[ 13439.482] rdpDeferredUpdateCallback: reschedule rect_id 2397 rect_id_ack 2396
+[ 13442.052] rdpDeferredUpdateCallback: reschedule rect_id 2408 rect_id_ack 2407
+[ 14028.676] rdpDeferredUpdateCallback: reschedule rect_id 2770 rect_id_ack 2769
+[ 14028.975] rdpDeferredUpdateCallback: reschedule rect_id 2774 rect_id_ack 2773
+[ 14037.211] rdpDeferredUpdateCallback: reschedule rect_id 2798 rect_id_ack 2797
+[ 14037.299] rdpDeferredUpdateCallback: reschedule rect_id 2799 rect_id_ack 2798
+[ 14037.686] rdpDeferredUpdateCallback: reschedule rect_id 2803 rect_id_ack 2802
+[ 14038.013] rdpDeferredUpdateCallback: reschedule rect_id 2806 rect_id_ack 2805
+[ 14038.113] rdpDeferredUpdateCallback: reschedule rect_id 2807 rect_id_ack 2806
+[ 14038.258] rdpDeferredUpdateCallback: reschedule rect_id 2809 rect_id_ack 2808
+[ 14056.124] rdpDeferredUpdateCallback: reschedule rect_id 2858 rect_id_ack 2857
+[ 14058.257] rdpDeferredUpdateCallback: reschedule rect_id 2873 rect_id_ack 2872
+[ 14245.896] rdpDeferredUpdateCallback: reschedule rect_id 3053 rect_id_ack 3052
+[ 14246.150] rdpDeferredUpdateCallback: reschedule rect_id 3056 rect_id_ack 3055
+[ 14246.285] rdpDeferredUpdateCallback: reschedule rect_id 3058 rect_id_ack 3057
+[ 14434.776] rdpDeferredUpdateCallback: reschedule rect_id 3126 rect_id_ack 3125
+[ 14436.686] rdpDeferredUpdateCallback: reschedule rect_id 3137 rect_id_ack 3136
+[ 14436.777] rdpDeferredUpdateCallback: reschedule rect_id 3138 rect_id_ack 3137
+[ 14445.063] rdpDeferredUpdateCallback: reschedule rect_id 3158 rect_id_ack 3157
+[ 14445.248] rdpDeferredUpdateCallback: reschedule rect_id 3160 rect_id_ack 3159
+[ 14445.337] rdpDeferredUpdateCallback: reschedule rect_id 3161 rect_id_ack 3160
+[ 14445.489] rdpDeferredUpdateCallback: reschedule rect_id 3163 rect_id_ack 3162
+[ 14445.529] rdpDeferredUpdateCallback: reschedule rect_id 3163 rect_id_ack 3162
+[ 14445.638] rdpDeferredUpdateCallback: reschedule rect_id 3164 rect_id_ack 3163
+[ 14445.750] rdpDeferredUpdateCallback: reschedule rect_id 3165 rect_id_ack 3164
+[ 14445.848] rdpDeferredUpdateCallback: reschedule rect_id 3166 rect_id_ack 3165
+[ 14445.889] rdpDeferredUpdateCallback: reschedule rect_id 3166 rect_id_ack 3165
+[ 14446.265] rdpDeferredUpdateCallback: reschedule rect_id 3171 rect_id_ack 3170
+[ 14446.410] rdpDeferredUpdateCallback: reschedule rect_id 3173 rect_id_ack 3172
+[ 14446.508] rdpDeferredUpdateCallback: reschedule rect_id 3174 rect_id_ack 3173
+[ 14453.474] rdpDeferredUpdateCallback: reschedule rect_id 3203 rect_id_ack 3202
+[ 14454.057] rdpDeferredUpdateCallback: reschedule rect_id 3208 rect_id_ack 3207
+[ 14454.148] rdpDeferredUpdateCallback: reschedule rect_id 3209 rect_id_ack 3208
+[ 14454.190] rdpDeferredUpdateCallback: reschedule rect_id 3209 rect_id_ack 3208
+[ 14454.345] rdpDeferredUpdateCallback: reschedule rect_id 3211 rect_id_ack 3210
+[ 14454.449] rdpDeferredUpdateCallback: reschedule rect_id 3212 rect_id_ack 3211
+[ 14454.542] rdpDeferredUpdateCallback: reschedule rect_id 3213 rect_id_ack 3212
+[ 14454.634] rdpDeferredUpdateCallback: reschedule rect_id 3214 rect_id_ack 3213
+[ 14454.736] rdpDeferredUpdateCallback: reschedule rect_id 3215 rect_id_ack 3214
+[ 14455.191] rdpDeferredUpdateCallback: reschedule rect_id 3219 rect_id_ack 3218
+[ 14455.897] rdpDeferredUpdateCallback: reschedule rect_id 3224 rect_id_ack 3223
+[ 14456.043] rdpDeferredUpdateCallback: reschedule rect_id 3226 rect_id_ack 3225
+[ 14456.191] rdpDeferredUpdateCallback: reschedule rect_id 3228 rect_id_ack 3227
+[ 14458.676] rdpDeferredUpdateCallback: reschedule rect_id 3244 rect_id_ack 3243
+[ 14458.785] rdpDeferredUpdateCallback: reschedule rect_id 3245 rect_id_ack 3244
+[ 14459.060] rdpDeferredUpdateCallback: reschedule rect_id 3248 rect_id_ack 3247
+[ 14459.147] rdpDeferredUpdateCallback: reschedule rect_id 3249 rect_id_ack 3248
+[ 14459.244] rdpDeferredUpdateCallback: reschedule rect_id 3250 rect_id_ack 3249
+[ 14459.342] rdpDeferredUpdateCallback: reschedule rect_id 3251 rect_id_ack 3250
+[ 14459.445] rdpDeferredUpdateCallback: reschedule rect_id 3252 rect_id_ack 3251
+[ 14459.590] rdpDeferredUpdateCallback: reschedule rect_id 3254 rect_id_ack 3253
+[ 14459.677] rdpDeferredUpdateCallback: reschedule rect_id 3255 rect_id_ack 3254
+[ 14460.941] rdpDeferredUpdateCallback: reschedule rect_id 3259 rect_id_ack 3258
+[ 14470.685] rdpDeferredUpdateCallback: reschedule rect_id 3277 rect_id_ack 3276
+[ 14472.157] rdpDeferredUpdateCallback: reschedule rect_id 3286 rect_id_ack 3285
+[ 14473.574] rdpDeferredUpdateCallback: reschedule rect_id 3295 rect_id_ack 3294
+[ 14475.557] rdpDeferredUpdateCallback: reschedule rect_id 3306 rect_id_ack 3305
+[ 14475.694] rdpDeferredUpdateCallback: reschedule rect_id 3308 rect_id_ack 3307
+[ 14475.809] rdpDeferredUpdateCallback: reschedule rect_id 3309 rect_id_ack 3308
+[ 14475.933] rdpDeferredUpdateCallback: reschedule rect_id 3310 rect_id_ack 3309
+[ 14476.146] rdpDeferredUpdateCallback: reschedule rect_id 3312 rect_id_ack 3311
+[ 14476.304] rdpDeferredUpdateCallback: reschedule rect_id 3314 rect_id_ack 3313
+[ 14476.350] rdpDeferredUpdateCallback: reschedule rect_id 3314 rect_id_ack 3313
+[ 14476.476] rdpDeferredUpdateCallback: reschedule rect_id 3315 rect_id_ack 3314
+[ 14476.590] rdpDeferredUpdateCallback: reschedule rect_id 3316 rect_id_ack 3315
+[ 14476.630] rdpDeferredUpdateCallback: reschedule rect_id 3316 rect_id_ack 3315
+[ 14476.974] rdpDeferredUpdateCallback: reschedule rect_id 3321 rect_id_ack 3320
+[ 14477.062] rdpDeferredUpdateCallback: reschedule rect_id 3322 rect_id_ack 3321
+[ 14477.177] rdpDeferredUpdateCallback: reschedule rect_id 3323 rect_id_ack 3322
+[ 14481.074] rdpDeferredUpdateCallback: reschedule rect_id 3328 rect_id_ack 3327
+[ 14481.181] rdpDeferredUpdateCallback: reschedule rect_id 3329 rect_id_ack 3328
+[ 14481.845] rdpDeferredUpdateCallback: reschedule rect_id 3334 rect_id_ack 3333
+[ 14484.474] rdpDeferredUpdateCallback: reschedule rect_id 3347 rect_id_ack 3346
+[ 14484.632] rdpDeferredUpdateCallback: reschedule rect_id 3349 rect_id_ack 3348
+[ 14484.754] rdpDeferredUpdateCallback: reschedule rect_id 3350 rect_id_ack 3349
+[ 14484.862] rdpDeferredUpdateCallback: reschedule rect_id 3351 rect_id_ack 3350
+[ 14484.970] rdpDeferredUpdateCallback: reschedule rect_id 3352 rect_id_ack 3351
+[ 14485.011] rdpDeferredUpdateCallback: reschedule rect_id 3352 rect_id_ack 3351
+[ 14485.100] rdpDeferredUpdateCallback: reschedule rect_id 3353 rect_id_ack 3352
+[ 14485.297] rdpDeferredUpdateCallback: reschedule rect_id 3355 rect_id_ack 3354
+[ 14485.445] rdpDeferredUpdateCallback: reschedule rect_id 3357 rect_id_ack 3356
+[ 14485.593] rdpDeferredUpdateCallback: reschedule rect_id 3359 rect_id_ack 3358
+[ 14491.762] rdpDeferredUpdateCallback: reschedule rect_id 3366 rect_id_ack 3365
+[ 14494.859] rdpDeferredUpdateCallback: reschedule rect_id 3376 rect_id_ack 3375
+[ 14513.648] rdpDeferredUpdateCallback: reschedule rect_id 3399 rect_id_ack 3398
+[ 14514.006] rdpDeferredUpdateCallback: reschedule rect_id 3403 rect_id_ack 3402
+[ 14514.145] rdpDeferredUpdateCallback: reschedule rect_id 3405 rect_id_ack 3404
+[ 14515.522] rdpDeferredUpdateCallback: reschedule rect_id 3417 rect_id_ack 3416
+[ 14516.058] rdpDeferredUpdateCallback: reschedule rect_id 3423 rect_id_ack 3422
+[ 14522.367] rdpkeybBell:
+[ 14522.367] rdpkeybBell:
+[ 14522.371] rdpkeybBell:
+[ 14524.796] rdpmouseControl: what 2
+[ 14524.796] rdpmouseDeviceOff:
+[ 14524.796] rdpkeybControl: what 2
+[ 14524.796] rdpkeybDeviceOff:
+[ 14524.798] rdpkeybControl: what 3
+[ 14524.798] rdpkeybUnInit: drv 0x556c4080f000 info 0x556c40ab0e70, flags 0x0
+[ 14524.798] rdpUnregisterInputCallback: proc 0x7f6eedf93530
+[ 14524.798] rdpmouseControl: what 3
+[ 14524.798] rdpmouseUnInit: drv 0x556c4080e860 info 0x556c409273f0, flags 0x0
+[ 14524.798] rdpUnregisterInputCallback: proc 0x7f6eee196c70
+[ 14524.829] rdpCloseScreen:
+[ 14524.829] xorgxrdpDownDown:
+[ 14524.829] xorgxrdpDownDown: 1
+[ 14524.829] rdpClientConDeinit:
+[ 14524.829] rdpClientConDeinit: disconnecting only clientCon
+[ 14524.829] rdpClientConDisconnect:
+[ 14524.829] rdpClientConDisconnect: clientCon removed from dev list
+[ 14524.829] rdpClientConDeinit: deleting file /var/run/xrdp/sockdir/xrdp_display_11
+[ 14524.836] (II) Server terminated successfully (0). Closing log file.

@@ -1,0 +1,22 @@
+[CLIENT] 0x2a00001
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] SimplilearnDevOpsOfficial/JenkinsAutoBuild - Google Chrome
+  [GEOMETRY] (11,31,1379,764)
+  [GEOMETRY-MAXIMIZED] (11,31,1379,853)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x3200004
+  [CLIENT_ID] 2dff6af42-67fe-4977-91ad-2ba14eed98a8
+  [CLIENT_LEADER] 0x3200001
+  [WINDOW_ROLE] xfce4-terminal-1621697638--706567325
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - vigneshdanarajg@vigneshdanarajg: ~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (37,242,1348,540)
+  [GEOMETRY-MAXIMIZED] (37,242,1078,711)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
